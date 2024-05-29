@@ -21,4 +21,4 @@ To install this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/APillai03/Simon-Game
-   cd CMSATS
+   cd Simon-Game
